@@ -13,7 +13,7 @@ import com.test.service.MailService;
 public class MailController {
 	// this is mail contriller class 
 	//  this second commite
-	// third time commite
+	
 	@Autowired
 	MailService service;
 	
