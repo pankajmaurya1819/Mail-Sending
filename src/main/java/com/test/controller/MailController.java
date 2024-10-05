@@ -11,7 +11,7 @@ import com.test.service.MailService;
 
 @RestController
 public class MailController {
-	
+	// this is mail contriller class 
 	@Autowired
 	MailService service;
 	
